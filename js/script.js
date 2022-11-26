@@ -1,3 +1,5 @@
+"use sctict"
+
 function bigHack (name, age){
     let a = 2, 
         b = 2
@@ -51,8 +53,31 @@ for(let i = 0; i <= 10; i++){
 };
 
 
+let myFirstApp = [],
+    mySecondApp = ['html', 'css', 'js']
+
+const a = 3000; 
+const b = 1000; 
+
+console.log('ширина кузова автомобиля ' + a);
+
+['aaad', 'sdfsdf', 'sdafsadf', 'sdfsdlakfj'].map(a => );
+
+let color_red = 'red'
+
+const api__second = 10; 
+
+const new__command = 20; 
+
+console.log(`api__second ${new__command}`);
 
 
+const person = `Alex`;
+]]]
+const bool = false; 
+
+const ]
 
 
+ 
 

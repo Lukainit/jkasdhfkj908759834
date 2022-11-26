@@ -97,12 +97,13 @@ plusl(y);
 console.log('arr' + " - obj"); 
 
 let incr = 10,
-    decr = 20; 
-
+    decr = 20;
+    
 console.log(incr--);
 console.log(decr++);
 
 console.log(2*4 === 8);
+console.log(2,2)
 
 const isCheked = true,
       isClose = !true, 
@@ -112,16 +113,9 @@ console.log(isCheked && isClose && isOpen);
 
 
 
-``dsfsdaf
-]
-sdfsd
+const isCheked = !true,
+      someDetails = true
 
-
-
-
-
-
-
-
+console.log(isCheked && someDetails
 
 

@@ -1,0 +1,19 @@
+﻿body{
+    background-color: #F4EFFE;
+}
+
+.logo-img, .menu, button{
+    display: inline-block ;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+
+.menu li{
+    display: inline-block;
+}
+
+
